@@ -1,7 +1,6 @@
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\WEBAPISample45.dll.config
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\WEBAPISample45.dll
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\WEBAPISample45.pdb
-F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\EntityFramework.dll
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\Microsoft.Web.Infrastructure.dll
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\Newtonsoft.Json.dll
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\System.Json.dll
@@ -19,7 +18,6 @@ F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\Sy
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\System.Web.WebPages.Deployment.dll
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\System.Web.WebPages.dll
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\System.Web.WebPages.Razor.dll
-F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\EntityFramework.xml
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\Newtonsoft.Json.xml
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\System.Json.xml
 F:\visual studio 2015\Projects\RunOnLinuxTry\Mvc4WebApiTry\WEBAPISample45\bin\System.Net.Http.xml
