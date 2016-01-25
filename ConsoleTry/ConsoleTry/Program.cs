@@ -9,6 +9,7 @@ namespace ConsoleTry
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Environment.GetEnvironmentVariable("HOME"));
             Console.WriteLine("Run on linux");
         }
     }
