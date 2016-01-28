@@ -1,0 +1,4 @@
+F:\visual studio 2015\Projects\RunOnLinuxTry\ConsoleTry\ConsoleTry\bin\Release\ConsoleTry.exe
+F:\visual studio 2015\Projects\RunOnLinuxTry\ConsoleTry\ConsoleTry\bin\Release\ConsoleTry.pdb
+F:\visual studio 2015\Projects\RunOnLinuxTry\ConsoleTry\ConsoleTry\obj\Release\ConsoleTry.exe
+F:\visual studio 2015\Projects\RunOnLinuxTry\ConsoleTry\ConsoleTry\obj\Release\ConsoleTry.pdb

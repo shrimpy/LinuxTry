@@ -1,6 +1,11 @@
-bin/*
+debug/*
 obj/*
 .vs/*
-*/bin/*
+*/debug/*
 */obj/*
 packages/*
+*/packages/*
+Mvc4ApiTry/WEBAPISample45/bin/*
+Mvc5ApiTry/Mvc5ApiTry/bin/*
+Mvc5ApiTry/Mvc5ApiTry/obj/*
+Mvc4ApiTry/WEBAPISample45/obj/*

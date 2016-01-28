@@ -1,5 +1,4 @@
 F:\visual studio 2015\Projects\RunOnLinuxTry\ConsoleTry\ConsoleTry\bin\Debug\ConsoleTry.exe
 F:\visual studio 2015\Projects\RunOnLinuxTry\ConsoleTry\ConsoleTry\bin\Debug\ConsoleTry.pdb
-F:\visual studio 2015\Projects\RunOnLinuxTry\ConsoleTry\ConsoleTry\obj\Debug\ConsoleTry.csprojResolveAssemblyReference.cache
 F:\visual studio 2015\Projects\RunOnLinuxTry\ConsoleTry\ConsoleTry\obj\Debug\ConsoleTry.exe
 F:\visual studio 2015\Projects\RunOnLinuxTry\ConsoleTry\ConsoleTry\obj\Debug\ConsoleTry.pdb
